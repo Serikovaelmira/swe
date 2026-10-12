@@ -1,3 +1,4 @@
+
 # Smart Recipe & Meal Planner System
 
 A web application for managing recipes, planning weekly meals, and generating smart shopping lists.
@@ -73,3 +74,6 @@ meal-planner/
 ### Complex Algorithms
 - **Meal plan auto-generation** — constraint-based greedy algorithm with weighted scoring (calorie fit + variety) and backtracking
 - **Shopping list generator** — multi-step pipeline: extract → scale → normalize units (conversion graph + ingredient density table) → aggregate → group by store section
+=======
+# swe
+ 7e69f156f202383f42853d9c9b124b820ef8b223
